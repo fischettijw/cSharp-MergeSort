@@ -52,16 +52,16 @@
             this.LbxInput.FormattingEnabled = true;
             this.LbxInput.ItemHeight = 24;
             this.LbxInput.Items.AddRange(new object[] {
-            "W",
+            "H",
+            "D",
             "A",
-            "Y",
-            "N",
+            "J",
             "C",
-            "L",
-            "S",
-            "P",
             "B",
-            "R"});
+            "G",
+            "F",
+            "I",
+            "K"});
             this.LbxInput.Location = new System.Drawing.Point(76, 141);
             this.LbxInput.Name = "LbxInput";
             this.LbxInput.Size = new System.Drawing.Size(105, 244);

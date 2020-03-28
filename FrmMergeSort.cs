@@ -59,6 +59,7 @@ namespace cSharp_MergeSort
             {
                 outputArray[i] = inputArray[i].ToLower();
             }
+
         }
 
     }
